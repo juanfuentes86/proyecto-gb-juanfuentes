@@ -5,7 +5,9 @@
     
 }
 
-#grid-logo{
+
+
+.logogb{
     border: solid red;
     text-align: center;
     
@@ -19,41 +21,47 @@
     font-size: medium;
     font-family: 'Times New Roman', Times, serif;
 }
-.grid-lista{
-    display: grid;    
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    justify-items: center ;
-    justify-content: space-around;
+
+
+#navbarNav{
+    justify-content: center;
+}
+
+
+.container-fluid{
+    display: grid;
+    justify-content: space-around;    
+    
     font-size: medium;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: italic;
     margin: 10px;
     padding: 10px;
     
-
+    
 }
-.caja1{
+.nav-item{
     display: grid;
     border: solid red;
     padding: 10px;
 
 }
-.caja2{
+.nav-item{
     display: grid;
     border: solid red;
     padding: 10px;
 }
-.caja3{
+.nav-item{
     display: grid;
     border: solid red;
     padding: 10px;
 }
-.caja4{
+.nav-item{
     display: grid;
     border: solid red;
     padding: 10px;
 }
-.caja5{
+.nav-item{
     display: grid;
     border: solid red;
     padding: 10px;
@@ -64,27 +72,34 @@
     display: grid;
     text-align: center;
     color: darkblue;
-    background-color: darkgrey;
+    background-color: red;
     margin: 10px;
     padding: 10px;
 }
 
 #grid-index{
     display: grid;
+    background-color: black;
+    justify-content: center;
 }
 .span1{
 
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
-    background-color: darkgray;
-    color: red;
+    font-size: large;
+    background-color: red;
+    color: darkblue;
     margin: 10px;
     padding: 10px;
 }
+.container{
+    background-color: darkgray;
+    margin: 0px;
+    padding: auto;
+}
 .parrafo{
-    display: grid;
-    grid-template-columns: 1fr 1fr ;    
+    display: flex;
+       
     background-color: darkgray;
     justify-content: center;
     font-size: medium;
@@ -100,23 +115,38 @@
 }
 #footer{
     display: grid;   
-    background-color: red; 
+    background-color: red;
+    margin: 0;
+    padding: 0;
     
 
     
 }
-.redes{
+.row1{
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas: "instagram facebook";
+    
+}
+.container1{
+
+    display: grid;
+    justify-content: center;
+}
+.redes{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "instagram  facebook";
     flex-flow: row;
     font-size: large;
     font-family: fantasy;
     text-align: center;
+    justify-content: space-around;
 }
 .instagram{
     display: grid;
     grid-area: instagram;
+    text-align: center;
 }
 
 .facebook{
@@ -124,6 +154,8 @@
     display: grid;
     grid-area: facebook;
 }
+
+
 
 .gridmapaaside{
 
@@ -493,6 +525,10 @@
     font-size: medium;
     font-family: 'Times New Roman', Times, serif;
 }
+.carousel-item img{
+    height: 250px;
+}
+
 .gridlistacontactos{
     display: grid;    
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
@@ -584,6 +620,7 @@
     text-align: center;
 
 }
+
 
 @media screen and (max-width:400px) {
     #grid-logo{
