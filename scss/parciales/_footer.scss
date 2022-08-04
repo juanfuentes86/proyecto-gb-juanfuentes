@@ -1,0 +1,135 @@
+#footer{
+    display: grid;   
+    background-color: red;
+    margin: 0;
+    padding: 0;
+    
+
+    
+}
+.redes{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "instagram  facebook";
+    flex-flow: row;
+    font-size: large;
+    font-family: fantasy;
+    text-align: center;
+    justify-content: space-around;
+}
+.instagram{
+    display: grid;
+    grid-area: instagram;
+    text-align: center;
+}
+
+.facebook{
+
+    display: grid;
+    grid-area: facebook;
+}
+
+.footerproductos{
+    display: grid;   
+    background-color: red; 
+    
+
+    
+}
+.redesproductos{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "instagram facebook";
+    flex-flow: row;
+    font-size: large;
+    font-family: fantasy;
+    text-align: center;
+}
+.instagramproductos{
+    display: grid;
+    grid-area: instagram;
+}
+
+.facebookproductos{
+
+    display: grid;
+    grid-area: facebook;
+}
+
+.spanproductos{
+    text-align: center;
+}
+
+#footerhorario{
+    display: grid;
+    background-color: red;
+}
+.horarioinstagram{
+    display: grid;
+    grid-area: instagram;
+}
+
+.horariofacebook{
+
+    display: grid;
+    grid-area: facebook;
+}
+.span{
+    text-align: center;
+}
+.footerformulario{
+    display: grid;
+    background-color: red;
+
+
+}
+.redesformulario{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "instagram facebook";
+    flex-flow: row;
+    font-size: large;
+    font-family: fantasy;
+    text-align: center;
+}
+.instagramproductos{
+    display: grid;
+    grid-area: instagram;
+}
+
+.facebookproductos{
+
+    display: grid;
+    grid-area: facebook;
+}
+
+.spanformulario{
+    text-align: center;
+}
+.footercontactos{
+    display: grid;
+    background-color: red;
+}
+.redescontactos{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "instagram facebook";
+    flex-flow: row;
+    font-size: large;
+    font-family: fantasy;
+    text-align: center;
+}
+.instagramcontactos{
+    display: grid;
+    grid-area: instagram;
+}
+
+.facebookcontactos{
+    display: grid;
+    grid-area: facebook;
+
+}
+.spancontactos{
+    text-align: center;
+
+}

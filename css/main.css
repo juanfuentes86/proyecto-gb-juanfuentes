@@ -1,0 +1,867 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.logogb {
+  border: solid red;
+  text-align: center; }
+
+.titulo {
+  color: red;
+  text-align: center; }
+
+.buscador {
+  text-align: end;
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif; }
+
+#navbarNav {
+  justify-content: center; }
+
+.container-fluid {
+  display: grid;
+  justify-content: space-around;
+  font-size: medium;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: italic;
+  margin: 10px;
+  padding: 10px; }
+
+.nav-item {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.nav-item {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.nav-item {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.nav-item {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.nav-item {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.gridlogoproductos {
+  border: solid red;
+  text-align: center; }
+
+.tituloproductos {
+  color: red;
+  text-align: center; }
+
+.buscadorproductos {
+  text-align: end;
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif; }
+
+.gridlistaproductos {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  justify-items: center;
+  justify-content: space-around;
+  font-size: medium;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: italic;
+  margin: 10px;
+  padding: 10px; }
+
+.caja1productos {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja2productos {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja3productos {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja4productos {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja5productos {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+#logohorario {
+  border: solid red;
+  text-align: center; }
+
+.titulohorario {
+  color: red;
+  text-align: center; }
+
+.buscadorhorario {
+  text-align: end;
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif; }
+
+.gridlistahorario {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  justify-items: center;
+  justify-content: space-around;
+  font-size: medium;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: italic;
+  margin: 10px;
+  padding: 10px; }
+
+.caja1h {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja2h {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja3h {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja4h {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja5h {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.logoformulario {
+  border: solid red;
+  text-align: center; }
+
+.tituloformulario {
+  color: red;
+  text-align: center; }
+
+.buscadorformulario {
+  text-align: end;
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif; }
+
+.gridlistaformulario {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  justify-items: center;
+  justify-content: space-around;
+  font-size: medium;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: italic;
+  margin: 10px;
+  padding: 10px; }
+
+.caja1f {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja2f {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja3f {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja4f {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja5f {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.logocontactos {
+  border: solid red;
+  text-align: center; }
+
+.titulocontactos {
+  color: red;
+  text-align: center; }
+
+.buscadorcontactos {
+  text-align: end;
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif; }
+
+.carousel-item img {
+  height: 250px; }
+
+.gridlistacontactos {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  justify-items: center;
+  justify-content: space-around;
+  font-size: medium;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: italic;
+  margin: 10px;
+  padding: 10px; }
+
+.caja1c {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja2c {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja3c {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja4c {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+.caja5c {
+  display: grid;
+  border: solid red;
+  padding: 10px; }
+
+#footer {
+  display: grid;
+  background-color: red;
+  margin: 0;
+  padding: 0; }
+
+.redes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas: "instagram  facebook";
+  flex-flow: row;
+  font-size: large;
+  font-family: fantasy;
+  text-align: center;
+  justify-content: space-around; }
+
+.instagram {
+  display: grid;
+  grid-area: instagram;
+  text-align: center; }
+
+.facebook {
+  display: grid;
+  grid-area: facebook; }
+
+.footerproductos {
+  display: grid;
+  background-color: red; }
+
+.redesproductos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas: "instagram facebook";
+  flex-flow: row;
+  font-size: large;
+  font-family: fantasy;
+  text-align: center; }
+
+.instagramproductos {
+  display: grid;
+  grid-area: instagram; }
+
+.facebookproductos {
+  display: grid;
+  grid-area: facebook; }
+
+.spanproductos {
+  text-align: center; }
+
+#footerhorario {
+  display: grid;
+  background-color: red; }
+
+.horarioinstagram {
+  display: grid;
+  grid-area: instagram; }
+
+.horariofacebook {
+  display: grid;
+  grid-area: facebook; }
+
+.span {
+  text-align: center; }
+
+.footerformulario {
+  display: grid;
+  background-color: red; }
+
+.redesformulario {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas: "instagram facebook";
+  flex-flow: row;
+  font-size: large;
+  font-family: fantasy;
+  text-align: center; }
+
+.instagramproductos {
+  display: grid;
+  grid-area: instagram; }
+
+.facebookproductos {
+  display: grid;
+  grid-area: facebook; }
+
+.spanformulario {
+  text-align: center; }
+
+.footercontactos {
+  display: grid;
+  background-color: red; }
+
+.redescontactos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas: "instagram facebook";
+  flex-flow: row;
+  font-size: large;
+  font-family: fantasy;
+  text-align: center; }
+
+.instagramcontactos {
+  display: grid;
+  grid-area: instagram; }
+
+.facebookcontactos {
+  display: grid;
+  grid-area: facebook; }
+
+.spancontactos {
+  text-align: center; }
+
+.titulo2 {
+  display: grid;
+  text-align: center;
+  color: darkblue;
+  background-color: red;
+  margin: 10px;
+  padding: 10px; }
+
+#grid-index {
+  display: grid;
+  background-color: black;
+  justify-content: center; }
+
+.span1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  background-color: red;
+  color: darkblue;
+  margin: 10px;
+  padding: 10px; }
+
+.container {
+  background-color: darkgray;
+  margin: 0px;
+  padding: auto; }
+
+.parrafo {
+  display: flex;
+  background-color: darkgray;
+  justify-content: center;
+  font-size: medium;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 10px;
+  padding: 10px; }
+
+.span2 {
+  display: grid;
+  text-align: center;
+  font-size: medium;
+  font-family: Georgia, 'Times New Roman', Times, serif; }
+
+.vibrate-1 {
+  -webkit-animation: vibrate-1 0.3s linear infinite both;
+  animation: vibrate-1 0.3s linear infinite both; }
+
+/* ----------------------------------------------
+ * Generated by Animista on 2022-8-2 15:0:27
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info. 
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+/**
+ * ----------------------------------------
+ * animation vibrate-1
+ * ----------------------------------------
+ */
+@-webkit-keyframes vibrate-1 {
+  0% {
+    -webkit-transform: translate(0);
+    transform: translate(0); }
+  20% {
+    -webkit-transform: translate(-2px, 2px);
+    transform: translate(-2px, 2px); }
+  40% {
+    -webkit-transform: translate(-2px, -2px);
+    transform: translate(-2px, -2px); }
+  60% {
+    -webkit-transform: translate(2px, 2px);
+    transform: translate(2px, 2px); }
+  80% {
+    -webkit-transform: translate(2px, -2px);
+    transform: translate(2px, -2px); }
+  100% {
+    -webkit-transform: translate(0);
+    transform: translate(0); } }
+
+@keyframes vibrate-1 {
+  0% {
+    -webkit-transform: translate(0);
+    transform: translate(0); }
+  20% {
+    -webkit-transform: translate(-2px, 2px);
+    transform: translate(-2px, 2px); }
+  40% {
+    -webkit-transform: translate(-2px, -2px);
+    transform: translate(-2px, -2px); }
+  60% {
+    -webkit-transform: translate(2px, 2px);
+    transform: translate(2px, 2px); }
+  80% {
+    -webkit-transform: translate(2px, -2px);
+    transform: translate(2px, -2px); }
+  100% {
+    -webkit-transform: translate(0);
+    transform: translate(0); } }
+
+.row1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas: "instagram facebook"; }
+
+.container1 {
+  display: grid;
+  justify-content: center; }
+
+.gridmapaaside {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  background-color: cornflowerblue;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+  padding: 0px; }
+
+.mapa {
+  display: grid;
+  align-items: center;
+  padding-left: 30px; }
+
+.aside {
+  display: grid;
+  width: 100%;
+  text-align: center;
+  justify-items: center;
+  align-items: center; }
+
+.tituloproductos2 {
+  text-align: center;
+  color: darkblue;
+  background-color: darkgrey;
+  margin: 10px;
+  padding: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; }
+
+.productosh2 {
+  display: grid;
+  text-align: center; }
+
+.gridproductos {
+  background-color: darkgray;
+  margin: 10px;
+  padding: 20px;
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: grid;
+  justify-items: center;
+  justify-content: space-around; }
+
+.listaproductos {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr; }
+
+.kimono:hover {
+  color: red; }
+
+.cinturones:hover {
+  color: red; }
+
+.indumentaria:hover {
+  color: red; }
+
+.shake-horizontal {
+  -webkit-animation: shake-horizontal 0.8s cubic-bezier(0.455, 0.03, 0.515, 0.955) both;
+  animation: shake-horizontal 0.8s cubic-bezier(0.455, 0.03, 0.515, 0.955) both; }
+
+/* ----------------------------------------------
+ * Generated by Animista on 2022-8-2 15:7:2
+ * Licensed under FreeBSD License.
+ * See http://animista.net/license for more info. 
+ * w: http://animista.net, t: @cssanimista
+ * ---------------------------------------------- */
+/**
+ * ----------------------------------------
+ * animation shake-horizontal
+ * ----------------------------------------
+ */
+@-webkit-keyframes shake-horizontal {
+  0%,
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0); }
+  10%,
+  30%,
+  50%,
+  70% {
+    -webkit-transform: translateX(-10px);
+    transform: translateX(-10px); }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px); }
+  80% {
+    -webkit-transform: translateX(8px);
+    transform: translateX(8px); }
+  90% {
+    -webkit-transform: translateX(-8px);
+    transform: translateX(-8px); } }
+
+@keyframes shake-horizontal {
+  0%,
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0); }
+  10%,
+  30%,
+  50%,
+  70% {
+    -webkit-transform: translateX(-10px);
+    transform: translateX(-10px); }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px); }
+  80% {
+    -webkit-transform: translateX(8px);
+    transform: translateX(8px); }
+  90% {
+    -webkit-transform: translateX(-8px);
+    transform: translateX(-8px); } }
+
+.gridhorarios {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  background-color: darkgray;
+  margin: 10px;
+  padding: 20px;
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  justify-content: space-around;
+  align-content: space-around;
+  width: 100%; }
+
+.gridhorarios2 {
+  display: grid;
+  font-size: medium;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: italic; }
+
+.gridredeshorario {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas: "instagram facebook";
+  flex-flow: row;
+  font-size: large;
+  font-family: fantasy;
+  text-align: center; }
+
+.titulo2formulario {
+  text-align: center;
+  color: darkblue;
+  background-color: darkgrey;
+  margin: 10px;
+  padding: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; }
+
+.tablaformulario {
+  background-color: darkgray;
+  margin: 10px;
+  padding: 20px;
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: flex; }
+
+.titulo2contactos {
+  text-align: center;
+  color: darkblue;
+  background-color: darkgrey;
+  margin: 10px;
+  padding: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; }
+
+.gridcontactos {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  font-size: medium;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: darkgray;
+  padding: 10px;
+  margin: 10px;
+  text-align: center; }
+
+.celular {
+  display: grid; }
+
+.direccion {
+  display: grid; }
+
+@media screen and (max-width: 400px) {
+  #grid-logo {
+    display: flex;
+    border: solid black;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0; }
+  .titulo {
+    color: black;
+    text-align: center; }
+  .buscador {
+    text-align: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif; }
+  .grid-lista {
+    display: block;
+    justify-items: center;
+    justify-content: space-around;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic; }
+  .caja1 {
+    border: solid black;
+    padding: 10px; }
+  .caja2 {
+    border: solid black;
+    padding: 10px; }
+  .caja3 {
+    border: solid black;
+    padding: 10px; }
+  .caja4 {
+    border: solid black;
+    padding: 10px; }
+  .caja5 {
+    border: solid black;
+    padding: 10px; }
+  .gridmapaaside {
+    display: flex;
+    background-color: cornflowerblue;
+    text-align: start;
+    justify-content: start;
+    align-items: flex-start; }
+  .mapa {
+    display: flex;
+    text-align: start;
+    padding: 0;
+    width: 100px; }
+  .aside {
+    display: none; }
+  #logohorario {
+    display: flex;
+    border: solid  black;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0; }
+  .titulohorario {
+    color: black;
+    text-align: center; }
+  .buscadorhorario {
+    text-align: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif; }
+  .gridlistahorario {
+    display: block;
+    justify-items: center;
+    justify-content: space-around;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic; }
+  .caja1h {
+    border: solid black;
+    padding: 10px; }
+  .caja2h {
+    border: solid black;
+    padding: 10px; }
+  .caja3h {
+    border: solid black;
+    padding: 10px; }
+  .caja4h {
+    border: solid black;
+    padding: 10px; }
+  .caja5h {
+    border: solid black;
+    padding: 10px; }
+  .gridhorarios {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: space-around;
+    align-content: space-around;
+    width: 100%; }
+  .gridhorarios2 {
+    display: grid;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic; }
+  .logoproductos {
+    display: flex;
+    border: solid  black;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0; }
+  .tituloproductos {
+    color: black;
+    text-align: center; }
+  .buscadorproductos {
+    text-align: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif; }
+  .gridlistaproductos {
+    display: block;
+    justify-items: center;
+    justify-content: space-around;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic; }
+  .caja1productos {
+    border: solid black;
+    padding: 10px; }
+  .caja2productos {
+    border: solid black;
+    padding: 10px; }
+  .caja3productos {
+    border: solid black;
+    padding: 10px; }
+  .caja4productos {
+    border: solid black;
+    padding: 10px; }
+  .caja5productos {
+    border: solid black;
+    padding: 10px; }
+  .gridlogoformulario {
+    display: flex;
+    border: solid  black;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0; }
+  .tituloformulario {
+    color: black;
+    text-align: center; }
+  .buscadorformulario {
+    text-align: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif; }
+  .gridlistaformulario {
+    display: block;
+    justify-items: center;
+    justify-content: space-around;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic; }
+  .caja1f {
+    border: solid black;
+    padding: 10px; }
+  .caja2f {
+    border: solid black;
+    padding: 10px; }
+  .caja3f {
+    border: solid black;
+    padding: 10px; }
+  .caja4f {
+    border: solid black;
+    padding: 10px; }
+  .caja5f {
+    border: solid black;
+    padding: 10px; }
+  .logocontactos {
+    display: flex;
+    border: solid  black;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0; }
+  .titulocontactos {
+    color: black;
+    text-align: center; }
+  .buscadorcontactos {
+    text-align: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif; }
+  .gridlistacontactos {
+    display: block;
+    justify-items: center;
+    justify-content: space-around;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic; }
+  .caja1c {
+    border: solid black;
+    padding: 10px; }
+  .caja2c {
+    border: solid black;
+    padding: 10px; }
+  .caja3c {
+    border: solid black;
+    padding: 10px; }
+  .caja4c {
+    border: solid black;
+    padding: 10px; }
+  .caja5c {
+    border: solid black;
+    padding: 10px; } }

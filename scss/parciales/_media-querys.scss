@@ -1,0 +1,302 @@
+@media screen and (max-width:400px) {
+    #grid-logo{
+        display:flex;
+        border: solid black;    
+        text-align:center;
+        justify-content:center;
+        
+        margin: 0;
+        padding:0;
+       
+    }
+    .titulo{
+        color: black;
+        text-align: center;}
+     .buscador{
+            text-align: center;
+            font-size: medium;
+            font-family: 'Times New Roman', Times, serif;} 
+    .grid-lista{
+                display:block; 
+                justify-items: center;
+                justify-content: space-around;
+                font-size: medium;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-style: italic;
+                
+                
+            
+            }
+        
+        .caja1{
+            
+            border: solid black;
+            padding: 10px;
+        
+        }
+        .caja2{
+            
+            border: solid black;
+            padding: 10px;
+        }
+        .caja3{
+            
+            border: solid black;
+            padding: 10px;
+        }
+        .caja4{
+            
+            border: solid black;
+            padding: 10px;
+        }
+        .caja5{
+            
+            border: solid black;
+            padding: 10px;
+        } 
+        .gridmapaaside{
+
+            display:flex;
+            
+            background-color: cornflowerblue;
+            text-align:start;
+            justify-content: start;
+            align-items:flex-start;
+            
+        }
+        .mapa{
+            display:flex;
+            text-align: start;
+            padding: 0;
+
+            
+            
+            width:100px;
+            
+        }
+        .aside{
+           display:none;
+           
+            
+            
+            
+        }  
+        #logohorario{
+            display:flex;
+            border: solid  black;    
+            text-align:center;
+            justify-content: center;
+            
+            margin: 0;
+            padding: 0;     
+    }
+    .titulohorario{
+
+        color: black;
+        text-align: center;
+    }
+    .buscadorhorario{
+    
+        text-align: center;
+        font-size: medium;
+        font-family: 'Times New Roman', Times, serif;}
+        .gridlistahorario{
+            display:block; 
+            justify-items: center;
+            justify-content: space-around;
+            font-size: medium;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-style: italic;
+
+        }  
+        .caja1h{
+            border: solid black;
+            padding: 10px;
+        
+        }
+        .caja2h{
+            border: solid black;
+            padding: 10px;
+        }
+        .caja3h{
+            border: solid black;
+            padding: 10px;
+        }
+        .caja4h{
+            border: solid black;
+            padding: 10px;
+        }
+        .caja5h{
+            border: solid black;
+            padding: 10px;;
+        }  
+        .gridhorarios{
+
+            display:inline-block;
+            
+            background-color:black;
+            color: white;
+            margin: 10px;
+            padding: 20px;
+            font-size: larger;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            justify-content: space-around;
+            align-content: space-around;
+            width: 100%;
+        }
+        .gridhorarios2{
+            display: grid;
+            font-size: medium;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-style: italic; 
+            
+            
+        
+        }
+        .logoproductos{
+            display:flex;
+            border: solid  black;    
+            text-align:center;
+            justify-content: center;            
+            margin: 0;
+            padding: 0;     
+    }
+    .tituloproductos{
+
+        color: black;
+        text-align: center;
+    }
+    .buscadorproductos{
+    
+        text-align: center;
+        font-size: medium;
+        font-family: 'Times New Roman', Times, serif;}
+        .gridlistaproductos{
+            display:block; 
+            justify-items: center;
+            justify-content: space-around;
+            font-size: medium;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-style: italic;
+
+        }  
+        .caja1productos{
+            border: solid black;
+            padding: 10px;
+        
+        }
+        .caja2productos{
+            border: solid black;
+            padding: 10px;
+        }
+        .caja3productos{
+            border: solid black;
+            padding: 10px;
+        }
+        .caja4productos{
+            border: solid black;
+            padding: 10px;
+        }
+        .caja5productos{
+            border: solid black;
+            padding: 10px;;
+        }  
+        
+        .gridlogoformulario{
+            display:flex;
+            border: solid  black;    
+            text-align:center;
+            justify-content: center;            
+            margin: 0;
+            padding: 0;     
+    }
+    .tituloformulario{
+
+        color: black;
+        text-align: center;
+    }
+    .buscadorformulario{
+    
+        text-align: center;
+        font-size: medium;
+        font-family: 'Times New Roman', Times, serif;}
+        .gridlistaformulario{
+            display:block; 
+            justify-items: center;
+            justify-content: space-around;
+            font-size: medium;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-style: italic;
+
+        }  
+        .caja1f{
+            border: solid black;
+            padding: 10px;
+        
+        }
+        .caja2f{
+            border: solid black;
+            padding: 10px;
+        }
+        .caja3f{
+            border: solid black;
+            padding: 10px;
+        }
+        .caja4f{
+            border: solid black;
+            padding: 10px;
+        }
+        .caja5f{
+            border: solid black;
+            padding: 10px;;
+        }
+
+        .logocontactos{
+            display:flex;
+            border: solid  black;    
+            text-align:center;
+            justify-content: center;            
+            margin: 0;
+            padding: 0;     
+    }
+    .titulocontactos{
+
+        color: black;
+        text-align: center;
+    }
+    .buscadorcontactos{
+    
+        text-align: center;
+        font-size: medium;
+        font-family: 'Times New Roman', Times, serif;}
+        .gridlistacontactos{
+            display:block; 
+            justify-items: center;
+            justify-content: space-around;
+            font-size: medium;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-style: italic;
+
+        }  
+        .caja1c{
+            border: solid black;
+            padding: 10px;
+        
+        }
+        .caja2c{
+            border: solid black;
+            padding: 10px;
+        }
+        .caja3c{
+            border: solid black;
+            padding: 10px;
+        }
+        .caja4c{
+            border: solid black;
+            padding: 10px;
+        }
+        .caja5c{
+            border: solid black;
+            padding: 10px;;
+        }
+}

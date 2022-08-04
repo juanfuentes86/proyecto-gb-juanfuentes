@@ -1,0 +1,275 @@
+.logogb{
+    border: solid red;
+    text-align: center;
+    
+}
+.titulo{
+    color: red;
+    text-align: center;
+}
+.buscador{
+    text-align: end;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#navbarNav{
+    justify-content: center;
+}
+
+
+.container-fluid{
+    display: grid;
+    justify-content: space-around;    
+    
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    margin: 10px;
+    padding: 10px;
+    
+    
+}
+.nav-item{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+
+}
+.nav-item{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.nav-item{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.nav-item{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.nav-item{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+
+.gridlogoproductos{
+    border: solid red;
+    text-align: center;
+}
+.tituloproductos{
+    color: red;
+    text-align: center;
+}
+.buscadorproductos{
+    text-align: end;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.gridlistaproductos{
+    display: grid;    
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    justify-items: center ;
+    justify-content: space-around;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    margin: 10px;
+    padding: 10px;
+}
+.caja1productos{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+
+}
+.caja2productos{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.caja3productos{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.caja4productos{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.caja5productos{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+
+#logohorario{
+    border: solid red;
+    text-align: center;
+
+}
+.titulohorario{
+
+    color: red;
+    text-align: center;
+}
+
+.buscadorhorario{
+    
+    text-align: end;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.gridlistahorario{
+    display: grid;    
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    justify-items: center ;
+    justify-content: space-around;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    margin: 10px;
+    padding: 10px;
+    
+}
+.caja1h{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+
+}
+.caja2h{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.caja3h{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.caja4h{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.caja5h{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.logoformulario{
+    border: solid red;
+    text-align: center;
+}
+.tituloformulario{
+    color: red;
+    text-align: center;
+}
+.buscadorformulario{
+    text-align: end;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.gridlistaformulario{
+
+    display: grid;    
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    justify-items: center ;
+    justify-content: space-around;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    margin: 10px;
+    padding: 10px;
+}
+.caja1f{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+
+}
+.caja2f{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.caja3f{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.caja4f{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.caja5f{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.logocontactos{
+    border: solid red;
+    text-align: center;
+}
+.titulocontactos{
+    color: red;
+    text-align: center;
+}
+.buscadorcontactos{
+    text-align: end;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+.carousel-item img{
+    height: 250px;
+}
+
+.gridlistacontactos{
+    display: grid;    
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    justify-items: center ;
+    justify-content: space-around;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    margin: 10px;
+    padding: 10px;
+}
+
+.caja1c{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+
+}
+.caja2c{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.caja3c{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.caja4c{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
+.caja5c{
+    display: grid;
+    border: solid red;
+    padding: 10px;
+}
