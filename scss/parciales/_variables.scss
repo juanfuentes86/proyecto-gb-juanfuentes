@@ -1,1 +1,16 @@
 $colorPrincipal:red
+
+
+$estilos: (
+  color #3673D9,
+  centro: center,
+  tFuente: 35px,
+  1rem : 1rem
+);
+.titulo2{
+    background-color: map-get($estilos, color);
+    text-align: map-get($estilos, centro);
+    padding: map-get($estilos, 1rem);
+    font-size:map-get($estilos, tFuente);
+  }
+  
